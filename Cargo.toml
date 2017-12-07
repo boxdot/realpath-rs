@@ -1,8 +1,9 @@
 [package]
 name = "realpath"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["boxdot <d@zerovolt.org>"]
 license = "MIT/Apache-2.0"
-description = "realpath -- returns the canonicalized absolute pathname"
+description = "returns the canonicalized absolute pathname"
+repository = "https://github.com/boxdot/realpath-rs"
 
 [dependencies]
